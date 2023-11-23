@@ -1,3 +1,3 @@
-So, this is the repo where you will learn advanced python `concepts`, `libraries` and how to use them, data structures and algorithms in python, There is dedicated folder for each topic. Go have a look you will see the code and a `readme.md` file which will explain the code and the concept behind it.
+So, this is the repo where you will learn advanced python `concepts`, `libraries` and how to use them, data structures and algorithms in python, There is dedicated `jupyter notebook` named `readme.ipynb` for each topic. Have a look at those and try to understand the code and then try to implement it on your own. If you get stuck somewhere, you can always refer to the code in the notebook.
 
 This repo is for those who have `basic knowledge of python` and want to learn more about it. This repo will also help you to prepare for your interviews.
